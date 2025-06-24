@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Akhidenor Lauren
-Final-year Agricultural Economics student focused on food insecurity, climate change, agricultural sustainability, and sustainable economic growth. Passionate about using data analysis and economic modeling to inform agricultural policy and development in Nigeria and beyond.
+🎓 Final-year Agricultural Economics student with a focus on food insecurity, climate change, agricultural sustainability, and sustainable economic growth. Passionate about using data analysis, economic modeling, and user-centered digital design to inform agricultural policy and drive development in Nigeria and beyond.
 
 
 
 --------
 ## 🧰 Tools & Skills
-- Power BI | SPSS | Excel | PYTHON (GOOGLE COLAB)
+- Power BI | SPSS | Excel | Python (Google Colab)
 - Agricultural & Environmental Economics
 - Financial Metrics Analysis
 - UI/UX design
