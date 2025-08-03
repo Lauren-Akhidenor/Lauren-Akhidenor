@@ -1,14 +1,24 @@
 # 👋 Hi, I'm Akhidenor Lauren
-🎓 Final-year Agricultural Economics student with a focus on food insecurity, climate change, agricultural sustainability, and sustainable economic growth. Passionate about using data analysis, economic modeling, and user-centered digital design to inform agricultural policy and drive development in Nigeria and beyond.
+My vision in life is to be an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of global agricultural impacts. 
+
+I am a food security impact-driven global enthusiast passionate about addressing food insecurity and promoting youth-driven agribusiness in Nigeria and across Africa. I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real-world agricultural challenges.
+
+My experience includes working with large-scale survey data such as the General Household Survey (GHS) Panel to analyze food security, climate change health related illnesses alongside labor productivity in agriculture, food prices, climate smart adoration practices, and their economic effects on rural communities, as well as engaging in diverse agriculture-related projects such as insurance amongst famers, genetically modified crops amongst others. 
+
+I am skilled in using tools like Microsoft Excel, Power BI, SPSS, Microsoft SQL and Google Colab to clean, visualize, and interpret agricultural and economic data.
+
+I am also an advocate for youth empowerment in agripreneurship. My goal is to leverage data-driven insights to support sustainable agricultural development and improve food security outcomes.
+
+I am eager to collaborate with like-minded individuals, contribute to impactful projects, and continue growing as a data enthusiast and agricultural economist.
 
 
 
 --------
 ## 🧰 Tools & Skills
-- Power BI | SPSS | Excel | Python (Google Colab)
+- Excel | SPSS | Microsoft SQL | Power BI | Python (Google Colab)
 - Agricultural & Environmental Economics
 - Financial Metrics Analysis
-- UI/UX design
+
 
 
 
@@ -33,7 +43,6 @@
 [![The Influence of Climate Change Expectations and Sectoral Differences on Food Prices in Nigeria](https://img.shields.io/badge/GitHub-Project%20Details-blue?logo=github&logoColor=white)](https://github.com/Lauren-Akhidenor/Foodprice_ClimateChange)
 
 
-
 - **🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
   *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
 
@@ -50,12 +59,7 @@
 
 
 
---------
- ## 💻 UI/UX Design
- - **A NAIJA MARKET WATCH INITATIVE**
-*An innovative project designed to track and analyze food prices across Nigerian markets, providing real-time data and insights to help farmers, consumers, and policymakers make informed decisions, ensuring improved food security and sustainable agricultural development.*
 
-[![Naija Market Watch UI/UX](https://img.shields.io/badge/Naija_Market_Watch_UI%2FUX-green?logo=figma&logoColor=white&labelColor=darkgreen)](https://github.com/Lauren-Akhidenor/NWM/blob/main/README.md)
 
 
 
@@ -65,6 +69,9 @@
 - Building Climate Resilience  
 - Promoting Sustainability in Agriculture  
 - Driving Impact Through Data Projects
+
+
+
 
 
 
