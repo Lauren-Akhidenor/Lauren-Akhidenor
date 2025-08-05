@@ -5,7 +5,7 @@ I am a food security impact-driven global enthusiast passionate about addressing
 
 My experience includes working with large-scale survey data such as the General Household Survey (GHS) Panel to analyze food security, climate change health related illnesses alongside labor productivity in agriculture, food prices, climate smart adoration practices, and their economic effects on rural communities, as well as engaging in diverse agriculture-related projects such as insurance amongst famers, genetically modified crops amongst others. 
 
-I am skilled in using tools like Microsoft Excel, Power BI, SPSS, Microsoft SQL and Google Colab to clean, visualize, and interpret agricultural and economic data.
+I am skilled in using tools like Microsoft Excel, Power BI, SPSS, Microsoft SQL and Google Colab to clean, analyze, visualize, and interpret agricultural and economic data.
 
 I am also an advocate for youth empowerment in agripreneurship. My goal is to leverage data-driven insights to support sustainable agricultural development and improve food security outcomes.
 
@@ -47,6 +47,12 @@ I am eager to collaborate with like-minded individuals, contribute to impactful 
   *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
 
 [![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
+
+**🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS**  
+*This project models agricultural inventory and integrates farmers’ climate expectation signals to guide operational and pricing decisions. It is built in Microsoft SQL Server using T-SQL via SSMS, demonstrating schema design, data integrity enforcement, stored procedures, triggers, and statistical price analysis with actionable restock, climate-driven insights and a PowerBI Dashboard for visualization of Kep Performance Insights.*  
+
+[![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
+
 
 
 
