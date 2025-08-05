@@ -1,16 +1,10 @@
 # 👋 Hi, I'm Akhidenor Lauren
-My vision in life is to be an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of global agricultural impacts. 
+
+A soon to be graduate with the vision of becoming an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of  global agricultural impacts. 
 
 I am a food security impact-driven global enthusiast passionate about addressing food insecurity and promoting youth-driven agribusiness in Nigeria and across Africa. I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real-world agricultural challenges.
 
-My experience includes working with large-scale survey data such as the General Household Survey (GHS) Panel to analyze food security, climate change health related illnesses alongside labor productivity in agriculture, food prices, climate smart adoration practices, and their economic effects on rural communities, as well as engaging in diverse agriculture-related projects such as insurance amongst famers, genetically modified crops amongst others. 
-
-I am skilled in using tools like Microsoft Excel, Power BI, SPSS, Microsoft SQL and Google Colab to clean, analyze, visualize, and interpret agricultural and economic data.
-
-I am also an advocate for youth empowerment in agripreneurship. My goal is to leverage data-driven insights to support sustainable agricultural development and improve food security outcomes.
-
-I am eager to collaborate with like-minded individuals, contribute to impactful projects, and continue growing as a data enthusiast and agricultural economist.
-
+This drive can be seen in my portfolio and enhancement on social media to make a voice in the agricultural sector. I am eager to collaborate with like-minded individuals, contribute to impactful projects, and continue growing as a data enthusiast and agricultural economist.
 
 
 --------
@@ -31,7 +25,7 @@ I am eager to collaborate with like-minded individuals, contribute to impactful 
 
   
 - **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
-  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
+  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County which were Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
 
 [![🌍 Bungoma Kenya Analysis 📊](https://img.shields.io/badge/GitHub-🌍_Bungoma_Kenya_Analysis_📊-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
   
@@ -49,7 +43,7 @@ I am eager to collaborate with like-minded individuals, contribute to impactful 
 [![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
 - **🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS**  
-*This project models agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data-driven decision-making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
+*This project models agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
 
 [![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
 
