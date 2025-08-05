@@ -54,6 +54,12 @@ I am eager to collaborate with like-minded individuals, contribute to impactful 
 [![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
 
 
+## 🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS
+*This project models agricultural inventory and integrates farmers’ climate expectation signals to support operational and analytical decision-making. It demonstrates **data manipulation skills** through T-SQL in Microsoft SQL Server Management Studio (SSMS), including schema design, aggregation, filtering, conditional logic, statistical summaries, and automated alerts for restocking farm inputs. It also includes **trigger-based automation** for real-time record updates and a **Power BI visualization dashboard** to provide interactive insights.*
+
+[![📊 Agro Inventory & Climate Analysis 🌦️](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_Analysis_🌦️-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
+[![⚡ Trigger Automation](https://img.shields.io/badge/⚡-Trigger_Automation-grey?logo=databricks&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md#trigger)
+[![📈 Power BI Dashboard](https://img.shields.io/badge/📈-Power_BI_Dashboard-grey?logo=powerbi&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md#powerbi)
 
 
 --------
