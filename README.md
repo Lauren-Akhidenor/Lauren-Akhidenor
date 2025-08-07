@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Akhidenor Lauren
 
-A soon to be graduate with the vision of becoming an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of  global agricultural impacts. 
+A soon to be graduate of L andmark University with the vision of becoming an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of  global agricultural impacts. 
 
-I am a food security impact-driven global enthusiast passionate about addressing food insecurity and promoting youth-driven agribusiness in Nigeria and across Africa. I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real-world agricultural challenges.
+I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real-world agricultural challenges.
 
 This drive can be seen in my portfolio and enhancement on social media to make a voice in the agricultural sector. I am eager to collaborate with like-minded individuals, contribute to impactful projects, and continue growing as a data enthusiast and agricultural economist.
 
 
 --------
 ## 🧰 Tools & Skills
-- Excel | SPSS | Microsoft SQL | Power BI | Python (Google Colab)
+- Excel | SPSS | Microsoft SQL Server Management | Power BI | Python (Google Colab)
 - Agricultural & Environmental Economics
 - Financial Metrics Analysis
 
@@ -18,17 +18,19 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 
 --------
 ## 📚 Data Analysis Projects
-- **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
-   *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake.*
 
-[![🌾 Agricultural Insurance 🛡️](https://img.shields.io/badge/GitHub-🌾_Agricultural_Insurance_🛡️-purple?logo=github&labelColor=red)](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/README.md)
 
-  
-- **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
-  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County which were Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
+- **🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS**  
+*This project involves the use of data manipulation to model agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
 
-[![🌍 Bungoma Kenya Analysis 📊](https://img.shields.io/badge/GitHub-🌍_Bungoma_Kenya_Analysis_📊-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
-  
+[![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
+
+
+- **🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
+  *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
+
+[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
+
   
 - **THE INFLUENCE OF CLIMATE CHANGE EXPECTATIONS AND SECTORAL DIFFERENCES ON FOOD PRICES IN NIGERIA**  
   *This project examines the relationship between climate change expectations and food price variations across Nigeria. By analyzing data on climate perceptions, sectoral differences (urban vs rural), and food price trends, the study sheds light on how these factors shape the agricultural market and food security in the country.*
@@ -37,15 +39,21 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 [![The Influence of Climate Change Expectations and Sectoral Differences on Food Prices in Nigeria](https://img.shields.io/badge/GitHub-Project%20Details-blue?logo=github&logoColor=white)](https://github.com/Lauren-Akhidenor/Foodprice_ClimateChange)
 
 
-- **🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
-  *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
+- **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
+   *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake.*
 
-[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
+[![🌾 Agricultural Insurance 🛡️](https://img.shields.io/badge/GitHub-🌾_Agricultural_Insurance_🛡️-purple?logo=github&labelColor=red)](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/README.md)
 
-- **🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS**  
-*This project involves the use of data manipulation to model agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
 
-[![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
+- **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
+  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County in kenya which were Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
+
+[![🌍 Bungoma Kenya Analysis 📊](https://img.shields.io/badge/GitHub-🌍_Bungoma_Kenya_Analysis_📊-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
+
+
+
+
+
 
 
 --------
