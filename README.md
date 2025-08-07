@@ -21,7 +21,7 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 
 
 - **🌾 AGRICULTURAL INVENTORY & CLIMATE-EXPECTATION ANALYSIS**  
-*This project involves the use of data manipulation to model agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
+*This project involves the display of data manipulation skills to model agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
 
 [![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
 
