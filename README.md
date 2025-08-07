@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhidenor Lauren
 
-A soon to be graduate of L andmark University with the vision of becoming an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of  global agricultural impacts. 
+A soon to be graduate of Landmark University with the vision of becoming an individual of Global impact contributing to the drive of food security across the world and restoring agricultural dignity to the African continent alongside building a generation of  global agricultural impacts. 
 
 I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real-world agricultural challenges.
 
