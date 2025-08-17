@@ -65,6 +65,13 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 
 --------
  ## 📚 Financial Metrics Analysis
+
+**🌱 COST-BENEFIT ANALYSIS OF ORGANIC VS INTEGRATED FARMING FOR AMARANTH & CORCHORUS**  
+*This project evaluates the economic viability of two farming approaches: strictly organic and integrated (organic + fertilizer + pesticide) for Amaranth and Corchorus. Using detailed cost projections, revenue forecasts, and financial metrics like ROI, BCR, NPV, and IRR, the analysis identifies the most profitable strategy for sustainable small-scale farming.*
+
+[![💰 Farm Profitability Analysis 🌾](https://img.shields.io/badge/GitHub-💰_Farm_Profitability_Analysis_🌾-FFA500?logo=github&labelColor=FF8C00)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
+
+ 
 - **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE**  
   *An experimental project assessing the agronomic and economic effects of mycorrhizal fungi on cabbage farming in Kenya, aimed at improving soil health, productivity, and profitability for smallholder farmers.*
 
