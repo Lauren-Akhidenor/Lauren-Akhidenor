@@ -11,8 +11,7 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 ## 🧰 Tools & Skills
 - Excel | SPSS | Microsoft SQL Server Management | Power BI | ArcGIS | Python 
 - Agricultural & Environmental Economics
-- Financial Metrics Analysis
-
+- Cost projection & budgeting | Revenue Forecasting | ROI | BCR | NPV | IRR | Decision-making insight
 
 
 
