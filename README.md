@@ -26,8 +26,7 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 
 
 - **🌱🌍 ROLE OF CLIMATE-SMART AGRICULTURE (CSA) IN ADDRESSING CHALLENGES OF FOOD SECURITY AND CLIMATE CHANGE IN NIGERIA THROUGH FOOD PRICE STABILIZATION AND FARMERS' PERCEPTION**  
-
-*This project provides a comprehensive analysis of the role of Climate-Smart Agriculture (CSA) in strengthening Nigeria’s food systems under climate change pressures. Using nationally representative data from the GHS-Panel Wave 5 (2023/2024), it investigates the socioeconomic characteristics of farming households, their perceptions and expectations of climate change, and the extent of CSA adoption across rural and urban sectors. The study further examines the impact of CSA adoption on food prices, evaluates its effectiveness in mitigating climate-related damages, and highlights regional disparities using Power BI dashboards, ArcGIS mapping, and Python econometric analysis. Findings reveal that CSA adoption is universal but uneven in effectiveness associated with price stabilization yet limited in reducing reported climate damages. These insights provide evidence for targeted policy interventions, improved early warning systems, and expanded CSA infrastructure to enhance resilience and long-term food security in Nigeria.*  
+  *This project provides a comprehensive analysis of the role of Climate-Smart Agriculture (CSA) in strengthening Nigeria’s food systems under climate change pressures. Using nationally representative data from the GHS-Panel Wave 5 (2023/2024), it investigates the socioeconomic characteristics of farming households, their perceptions and expectations of climate change, and the extent of CSA adoption across rural and urban sectors. The study further examines the impact of CSA adoption on food prices, evaluates its effectiveness in mitigating climate-related damages, and highlights regional disparities using Power BI dashboards, ArcGIS mapping, and Python econometric analysis. Findings reveal that CSA adoption is universal but uneven in effectiveness associated with price stabilization yet limited in reducing reported climate damages. These insights provide evidence for targeted policy interventions, improved early warning systems, and expanded CSA infrastructure to enhance resilience and long-term food security in Nigeria.*  
 
 [![🌱 CSA & Food Security Project](https://img.shields.io/badge/GitHub-Project%20Details-green?logo=github&logoColor=white&labelColor=2e7d32)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
 
@@ -66,8 +65,8 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 --------
  ## 📚 Financial Metrics Analysis
 
-**🌱 COST-BENEFIT ANALYSIS OF ORGANIC VS INTEGRATED FARMING FOR AMARANTH & CORCHORUS**  
-*This project evaluates the economic viability of two farming approaches: strictly organic and integrated (organic + fertilizer + pesticide) for Amaranth and Corchorus. Using detailed cost projections, revenue forecasts, and financial metrics like ROI, BCR, NPV, and IRR, the analysis identifies the most profitable strategy for sustainable small-scale farming.*
+- **🌱 COST-BENEFIT ANALYSIS OF ORGANIC VS INTEGRATED FARMING FOR AMARANTH & CORCHORUS**  
+  *This project evaluates the economic viability of two farming approaches: strictly organic and integrated (organic + fertilizer + pesticide) for Amaranth and Corchorus. Using detailed cost projections, revenue forecasts, and financial metrics like ROI, BCR, NPV, and IRR, the analysis identifies the most profitable strategy for sustainable small-scale farming.*
 
 [![💰 Farm Profitability Analysis 🌾](https://img.shields.io/badge/GitHub-💰_Farm_Profitability_Analysis_🌾-FFA500?logo=github&labelColor=FF8C00)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
