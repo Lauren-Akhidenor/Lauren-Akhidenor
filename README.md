@@ -19,6 +19,12 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 --------
 ## 📚 Data Analysis Projects
 
+- **🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
+  *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
+
+[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
+
+
 - **🌱🌍 ROLE OF CLIMATE-SMART AGRICULTURE (CSA) IN ADDRESSING CHALLENGES OF FOOD SECURITY AND CLIMATE CHANGE IN NIGERIA THROUGH FOOD PRICE STABILIZATION AND FARMERS' PERCEPTION**  
 
 *This project provides a comprehensive analysis of the role of Climate-Smart Agriculture (CSA) in strengthening Nigeria’s food systems under climate change pressures. Using nationally representative data from the GHS-Panel Wave 5 (2023/2024), it investigates the socioeconomic characteristics of farming households, their perceptions and expectations of climate change, and the extent of CSA adoption across rural and urban sectors. The study further examines the impact of CSA adoption on food prices, evaluates its effectiveness in mitigating climate-related damages, and highlights regional disparities using Power BI dashboards, ArcGIS mapping, and Python econometric analysis. Findings reveal that CSA adoption is universal but uneven in effectiveness associated with price stabilization yet limited in reducing reported climate damages. These insights provide evidence for targeted policy interventions, improved early warning systems, and expanded CSA infrastructure to enhance resilience and long-term food security in Nigeria.*  
@@ -31,12 +37,6 @@ This drive can be seen in my portfolio and enhancement on social media to make a
 *This project involves the display of data manipulation skills to model agricultural inventory while integrating farmers’ climate expectation signals to inform operational, pricing, and restocking decisions. Built with Microsoft SQL Server using T-SQL in SSMS, it highlights relational schema design and data integrity enforcement, use of stored procedures, triggers, and conditional logic for automation, statistical summaries for pricing and restocking recommendations, climate expectation integration for data driven decision making and a dynamic Power BI dashboard delivering key performance insights and actionable alerts.*
 
 [![📊 Agro Inventory & Climate 📈](https://img.shields.io/badge/GitHub-📊_Agro_Inventory_&_Climate_📈-grey?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis/blob/main/README.md)
-
-
-- **🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
-  *This project examines how Climate-Induced Health Risks (CIHR) such as heat stress, malaria, and cholera affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
-
-[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
   
 - **THE INFLUENCE OF CLIMATE CHANGE EXPECTATIONS AND SECTORAL DIFFERENCES ON FOOD PRICES IN NIGERIA**  
