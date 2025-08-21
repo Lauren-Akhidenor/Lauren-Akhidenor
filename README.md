@@ -142,7 +142,7 @@ I envision making a **global impact** in agriculture and food systems, leading i
 ---
 
 ## 🌐 Trade Name  
-**The LaurenKIns** represents my commitment to innovative, sustainable, and globally impactful agricultural solutions.   
+**The LaurenKins** represents my commitment to innovative, sustainable, and globally impactful agricultural solutions.   
 
 ---
 
