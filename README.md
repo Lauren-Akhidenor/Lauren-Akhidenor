@@ -1,4 +1,4 @@
-# 🌍 Akhidenor Lauren | *The LaurenKIns*  
+# 🌍 Akhidenor Lauren | *The LaurenKins*  
 *Agricultural Economist | Data Analyst | Food Systems Enthusiast*  
 
 💡 **Driving agricultural transformation, food security, and global impact through data, economics, and innovation.**
