@@ -126,6 +126,11 @@ Experimental study on soil health, yield, and profitability impact of mycorrhiza
 [![🥬 Cabbage Production 💰](https://img.shields.io/badge/GitHub-🥬_Cabbage_Production_💰-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)  
 
 ---
+## 📜 View My Certifications 
+
+[![📜 Certifications & Certificates](https://img.shields.io/badge/GitHub-📜_Certifications_&_Certificates-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/README.md)
+
+---
 
 ## 🚀 Future Goals  
 I envision making a **global impact** in agriculture and food systems, leading initiatives that drive **sustainable change**. I see myself collaborating with brilliant minds around the world, inspiring innovation, and empowering every partner to reach their **full potential** alongside me.
