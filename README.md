@@ -37,10 +37,18 @@
 
 ### Climate & Food Systems Analysis  
 
+- **Emono’s Healthy Lifestyle: Complete SQL Database Project**
+I developed a comprehensive SQL database to manage and analyze health-focused products, clients, employees, projects, farmers, crops, and sales. The project integrates DDL, DML, ETL, and OLAP processes, enabling efficient operations, sales tracking, employee/project monitoring, and data-driven decision-making for wellness and nutrition initiatives.
+
+**Tools:** SQL Server | OLAP Analytics | ETL Processes
+
+[![Emono's Healthy Lifestyle](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
+
+
 - **Visualizing Maize Variety Adoption & Agronomic Practices in Embu, Kenya**  
 I explored how factors like gender, training, and socio-economic status influence maize variety adoption, input use, and farming practices among smallholder farmers in Embu County, Kenya. By building a star-schema data model and developing interactive Power BI dashboards, I revealed key insights on adoption trends, training effectiveness, fertilizer usage, and constraints such as high input costs, pests, and post-harvest losses.
 
-**Tools:** Power BI | Star-Schema Modeling
+**Tools:** Power BI 
 
 [![Maize Adoption Dashboard ](https://img.shields.io/badge/GitHub-_Maize_Adoption_Dashboard_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/MAIZE-GENETICS-/blob/main/README.md)
 
