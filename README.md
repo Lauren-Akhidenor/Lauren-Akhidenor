@@ -62,7 +62,8 @@ I analyzed how health risks like heat stress, malaria, and cholera affect labour
 [![Climate Health & Labour ](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)  
 
 
-- **Role of Climate-Smart Agriculture (CSA) in Nigeria**  
+- **Role of Climate-Smart Agriculture (CSA) in Addressing Challenges of Food Security and Climate Change in Nigeria through Food Price Stabilization and Farmers’ Perception**  
+
 Explored how CSA practices stabilize food prices and strengthen resilience against climate change. I mapped adoption patterns with ArcGIS, built interactive Power BI dashboards, and used Python econometrics to test effectiveness.  
 
 **Tools:**  Power BI | ArcGIS | Python 
