@@ -71,6 +71,11 @@ Explored how CSA practices stabilize food prices and strengthen resilience again
 [![ CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)  
 
 
+-**🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
+
+*This project examines how climate-induced health risks (CIHR)—including illnesses like malaria and cholera—impact labour productivity and food security in Nigerian agricultural households. Using national GHS-Panel data, it applies OLS and logistic regression, supported by policy recommendations and rich visualizations.*
+
+[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=8B4513)](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/README.md)
 
 - **Agricultural Inventory & Climate-Expectation Analysis**  
 Designed a relational SQL schema to track agricultural inventory while integrating farmers’ climate expectations into operational and pricing decisions. Automated reports and linked insights to a Power BI dashboard for real-time monitoring.  
