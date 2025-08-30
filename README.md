@@ -92,7 +92,7 @@ Examined the relationship between climate change expectations, sectoral differen
 
 
 
-- **Analysing the partcipation level of poultry farmers in agricultural insurance in Northern Nigeria**
+- **Analysing the participation level of poultry farmers in agricultural insurance in Northern Nigeria**
   
 Investigated why poultry farmers under-participate in agricultural insurance. Cleaned and analyzed data in Excel, then built Power BI dashboards to visualize patterns by income, education, and farm size.  
 
