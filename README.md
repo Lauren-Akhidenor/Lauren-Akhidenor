@@ -142,7 +142,7 @@ Evaluated economic viability of organic vs integrated farming for Amaranth & Cor
 
 
 
-- **Sustainable Cabbage Production with Mycorrhizae inoculant**
+- **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Perspective**
   
 Experimental study on soil health, yield, and profitability impact of mycorrhizal fungi.  
 
