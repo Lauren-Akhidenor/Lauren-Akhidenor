@@ -102,7 +102,8 @@ Investigated why poultry farmers under-participate in agricultural insurance. Cl
 
 
 
-- **Socio-Economic Characteristics of Maize Farmers in Kenya** 
+- **Socioeconomic Characteristics, Farming Paractices, and Productivity of Maize Farmers in Kenya Bungoma County**
+  
 Analyzed data from a field survey in Bungoma County, Kenya, exploring how socio-economic characteristics, farming practices, and access to support services impact maize productivity.  
 
 **Tools:** Excel | SPSS | Power BI  
@@ -115,7 +116,8 @@ Analyzed data from a field survey in Bungoma County, Kenya, exploring how socio-
 
 ## Optimization & Financial Metrics Projects  
 
-- **Linear Programming in Food Production**  
+- **Linear Programming in Food Production**
+  
 This project is a comprehensive showcase of three Linear Programming applications in agriculture and food systems, all combined into one README to demonstrate my ability to design and solve optimization problems:  
 
 1. **Nutrient-Cost Optimization**: determining the least-cost feed/production mix that meets nutritional or production requirements.  
@@ -130,7 +132,8 @@ By combining these models into a single portfolio project, I highlight not just 
 
 
 
-- **Cost-Benefit Analysis: Organic vs Integrated Farming** 
+- **Cost-Benefit Analysis: Organic vs Integrated Farming**
+  
 Evaluated economic viability of organic vs integrated farming for Amaranth & Corchorus.  
 
 **Tools:** Excel | ROI/NPV/IRR  
@@ -139,7 +142,8 @@ Evaluated economic viability of organic vs integrated farming for Amaranth & Cor
 
 
 
-- **Sustainable Cabbage Production with Mycorrhizae inoculant** 
+- **Sustainable Cabbage Production with Mycorrhizae inoculant**
+  
 Experimental study on soil health, yield, and profitability impact of mycorrhizal fungi.  
 
 **Tools:** Excel | Agricultural Economics  
