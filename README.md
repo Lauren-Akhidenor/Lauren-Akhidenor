@@ -132,7 +132,7 @@ By combining these models into a single portfolio project, I highlight not just 
 
 
 
-- **Cost-Benefit Analysis: Organic vs Integrated Farming**
+- **Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus**
   
 Evaluated economic viability of organic vs integrated farming for Amaranth & Corchorus.  
 
