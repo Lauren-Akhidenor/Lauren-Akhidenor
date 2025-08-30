@@ -72,7 +72,8 @@ Explored how CSA practices stabilize food prices and strengthen resilience again
 
 
 
-- **Agricultural Inventory & Climate-Expectation Analysis**  
+- **Agricultural Inventory & Climate-Expectation Analysis**
+  
 Designed a relational SQL schema to track agricultural inventory while integrating farmers’ climate expectations into operational and pricing decisions. Automated reports and linked insights to a Power BI dashboard for real-time monitoring.  
 
 **Tools:** SQL | Power BI  
@@ -81,7 +82,8 @@ Designed a relational SQL schema to track agricultural inventory while integrati
 
 
 
-- **Influence of Climate Change Expectations on Food Prices**  
+- **The Influence of Climate Change Expectations and Sectoral Differences on Food Prices in Nigeria**
+   
 Examined the relationship between climate change expectations, sectoral differences (urban vs rural), and food price variations across Nigeria.  
 
 **Tools:** Excel | Python  
@@ -90,7 +92,8 @@ Examined the relationship between climate change expectations, sectoral differen
 
 
 
-- **Agricultural Insurance in Northern Nigeria**  
+- **Agricultural Insurance in Northern Nigeria**
+  
 Investigated why poultry farmers under-participate in agricultural insurance. Cleaned and analyzed data in Excel, then built Power BI dashboards to visualize patterns by income, education, and farm size.  
 
 **Tools:** Excel | Power BI  
