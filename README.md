@@ -116,7 +116,7 @@ Analyzed data from a field survey in Bungoma County, Kenya, exploring how socio-
 
 ## Optimization & Financial Metrics Projects  
 
-- **Linear Programming in Food Production**
+- **Linear Programming Applications in Agricultural and Food Production**
   
 This project is a comprehensive showcase of three Linear Programming applications in agriculture and food systems, all combined into one README to demonstrate my ability to design and solve optimization problems:  
 
