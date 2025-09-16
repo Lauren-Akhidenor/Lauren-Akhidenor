@@ -86,7 +86,7 @@ Designed a relational SQL schema to track agricultural inventory while integrati
    
 Examined the relationship between climate change expectations, sectoral differences (urban vs rural), and food price variations across Nigeria.  
 
-**Tools:** Excel | Python  
+**Tools:** Excel | Power BI | Python  
 
 [![Food Price & Climate](https://img.shields.io/badge/GitHub-Food_Price_&_Climate-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Foodprice_ClimateChange)  
 
