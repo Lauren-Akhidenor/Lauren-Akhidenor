@@ -37,6 +37,14 @@
 
 ### Climate & Food Systems Analysis  
 
+- **Comparative Analysis of Inflation and Producer Price Trends between (2019-2025) Across Selected Countries**
+I analyzed consumer inflation, producer price changes, and production trends for potatoes and wheat across selected countries (2019–2025). Using a star-schema data model and interactive Power BI dashboards, I revealed key insights on price disparities, production efficiency, and economic imbalances. The analysis highlights how inflation impacts consumers and producers differently in developed and developing agricultural economies.
+
+**Tools:** Power BI
+
+[![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
+
+
 - **Emono’s Healthy Lifestyle: Complete SQL Database Project**
 I developed a comprehensive SQL database to manage and analyze health-focused products, clients, employees, projects, farmers, crops, and sales. The project integrates DDL, DML, ETL, and OLAP processes, enabling efficient operations, sales tracking, employee/project monitoring, and data-driven decision-making for wellness and nutrition initiatives.
 
