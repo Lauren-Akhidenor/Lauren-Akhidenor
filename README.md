@@ -63,6 +63,14 @@ Mapped CSA adoption patterns, evaluated food price stabilization, and applied Py
 **Tools:** Power BI | ArcGIS | Python  
 [![CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
 
+- **Socioeconomic Analysis & Maize Productivity – Bungoma, Kenya**  
+Surveyed **120 farmers** to study how socioeconomic factors, training, and practices affect maize yields. Male-headed households (78%) dominated; training correlated with higher productivity. With Key constraints like input cost, pests, post-harvest losses.
+
+**Tools:** Excel | SPSS | Power BI  
+[![Bungoma Kenya](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
+
+
+
 ---
 
 ### 3. Optimization & Financial Metrics
