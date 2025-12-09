@@ -66,6 +66,11 @@ Mapped CSA adoption patterns, evaluated food price stabilization, and applied Py
 ---
 
 ### 3. Optimization & Financial Metrics
+- **Comparative Analysis of Inflation and Producer Price Trends (2019–2025) Across Selected Countries**  
+Analyzed consumer inflation, producer price changes, and production trends for potatoes and wheat across selected countries (2019–2025). Built star-schema models and interactive Power BI dashboards to reveal insights on price disparities, production efficiency, and economic imbalances.  
+
+**Tools:** Power BI  
+[![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
 - **Linear Programming Applications in Agricultural and Food Production**  
 Showcase of three LP applications: Nutrient-Cost Optimization, Production Scheduling, Processing & Machine Allocation.  
 
