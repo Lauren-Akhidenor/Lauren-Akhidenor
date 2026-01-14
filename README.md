@@ -48,6 +48,11 @@ Analyzed agricultural inventory and climate expectation data from GHS-Panel Wave
 **Tools:** SQL | Google Colab  
 [![View Project](https://img.shields.io/badge/GitHub-_Agro_Inventory_&_Climate_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis)
 
+- **Global Agricultural Food Systems Analysis (2015–2029)**  
+Built a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
+
+**Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI
+[![View Project](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-2F4F4F?logo=github&logoColor=white&labelColor=0B3D91)](https://github.com/Lauren-Akhidenor/food-productivity-stability)  
 
 ---
 
