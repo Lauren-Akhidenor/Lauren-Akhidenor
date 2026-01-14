@@ -40,19 +40,22 @@
 Comprehensive SQL database for health-focused agrifood business with DDL, DML, ETL, and OLAP processes.  
 
 **Tools:** SQL Server | ETL Processes | OLAP Analytics  
+
 [![Emono's Healthy Lifestyle](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
 
 - **Agro Inventory & Climate Analysis**
 Analyzed agricultural inventory and climate expectation data from GHS-Panel Wave 5 (2023/2024) to assess how climate perceptions influence food prices. Includes data cleaning, visualization, and predictive modeling.
 
 **Tools:** SQL | Google Colab  
+
 [![View Project](https://img.shields.io/badge/GitHub-_Agro_Inventory_&_Climate_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis)
 
 - **Global Agricultural Food Systems Analysis (2015–2029)**  
 Built a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
 
-**Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI
-[![View Project](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-2F4F4F?logo=github&logoColor=white&labelColor=0B3D91)](https://github.com/Lauren-Akhidenor/food-productivity-stability)  
+**Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI                                                                                                                                                                           
+
+[![Food productivity and balance analysis](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/food-productivity-stability)  
 
 ---
 
@@ -61,24 +64,28 @@ Built a multi-country agricultural intelligence system using FAO data to analyze
 Analyzed adoption trends and farming practices using star-schema data models and interactive Power BI dashboards.  
 
 **Tools:** Power BI  
+
 [![Maize Adoption Dashboard](https://img.shields.io/badge/GitHub-_Maize_Adoption_Dashboard_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/MAIZE-GENETICS-/blob/main/README.md)
 
 - **Quantifying the Economic Burden of Climate-Induced Health Risks in Nigeria**  
 Analyzed effects of heat stress, malaria, and cholera on labor productivity and food security with OLS and logistic models.  
 
 **Tools:** Excel | Power BI | ArcGIS | Python  
+
 [![Climate Health & Labour](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
 - **Role of Climate-Smart Agriculture (CSA) in Addressing Food Security and Climate Change**  
 Mapped CSA adoption patterns, evaluated food price stabilization, and applied Python econometrics.  
 
 **Tools:** Power BI | ArcGIS | Python  
+
 [![CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
 
 - **Socioeconomic Analysis & Maize Productivity – Bungoma, Kenya**  
 Surveyed **120 farmers** to study how socioeconomic factors, training, and practices affect maize yields. Male-headed households (78%) dominated; training correlated with higher productivity. With Key constraints like input cost, pests, post-harvest losses.
 
 **Tools:** Excel | SPSS | Power BI  
+
 [![Bungoma Kenya](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
 
 
@@ -90,23 +97,28 @@ Surveyed **120 farmers** to study how socioeconomic factors, training, and pract
 Analyzed consumer inflation, producer price changes, and production trends for potatoes and wheat across selected countries (2019–2025). Built star-schema models and interactive Power BI dashboards to reveal insights on price disparities, production efficiency, and economic imbalances.  
 
 **Tools:** Power BI  
+
 [![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
+
 - **Linear Programming Applications in Agricultural and Food Production**  
 Showcase of three LP applications: Nutrient-Cost Optimization, Production Scheduling, Processing & Machine Allocation.  
 
 **Tools:** Excel  
+
 [![Linear Programming](https://img.shields.io/badge/GitHub-_Linear_Programming_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/LINEAR-PROGRAMMING/blob/main/README.md)
 
 - **Cost-Benefit Analysis of Organic vs Integrated Farming**  
 Economic evaluation of organic vs integrated farming for Amaranth and Corchorus.  
 
 **Tools:** Excel | ROI/NPV/IRR  
+
 [![Farm Profitability](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
 - **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation**  
 Experimental study on soil health, yield, and profitability impacts of mycorrhizal fungi.  
 
 **Tools:** Excel | Agricultural Economics  
+
 [![Cabbage Production](https://img.shields.io/badge/GitHub-_Cabbage_Production_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
 
 ---
