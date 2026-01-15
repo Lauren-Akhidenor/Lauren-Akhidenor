@@ -114,10 +114,12 @@ Economic evaluation of organic vs integrated farming for Amaranth and Corchorus.
 
 [![Farm Profitability](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
-- **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation**  
-Experimental study on soil health, yield, and profitability impacts of mycorrhizal fungi.  
+- **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Analysis**  
+This project evaluates the impact of mycorrhizal fungi application on cabbage (Brassica oleracea) cultivation, emphasizing sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya, contributing to national food security and economic growth. The study examines biological soil amendments (mycorrhizal inoculants) as a strategy to improve plant growth, resilience, and profitability.
 
-**Tools:** Excel | Agricultural Economics  
+**Economic Methodology:** Cost Benefit Analysis (CBA) | Return on Investment (ROI)
+
+**Tool:** Microsoft Excel 
 
 [![Cabbage Production](https://img.shields.io/badge/GitHub-_Cabbage_Production_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
 
