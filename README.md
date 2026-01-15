@@ -59,7 +59,9 @@ Methodology: DML| OLAP|  ETL AND SYNTHETIC DATA GENERATION | VISUALIZATION
 [![View Project](https://img.shields.io/badge/GitHub-_Agro_Inventory_&_Climate_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis)
 
 - **Global Agricultural Food Systems Analysis (2015–2029)**  
-Built a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
+This project Builds on a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
+
+methodoloogy: Correlation | Regression Analysis |
 
 **Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI                                                                                                                                                                           
 
