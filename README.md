@@ -1,11 +1,13 @@
 
+<p align="center">
+  <img src="The LaurenKins.png" alt="LaurenKins Logo" width="200"/>
+</p>
 
 
-
-# 🌍 Akhidenor Lauren | *The LaurenKins*  
+# 🌍 Akhidenor Lauren | *TheLaurenKins*  
 *Agricultural Economist | Development Analyst | Impact Evaluation Analyst | Food Systems Specialist*  
 
-**Driving evidence-based solutions for food security, sustainable agriculture, and global development impact.**  
+**Using data to provide solutions towards the impending food crisis thus, promoting food security, sustainable agriculture, and global development.**  
 
 ---
 
