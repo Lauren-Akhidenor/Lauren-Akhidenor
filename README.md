@@ -93,14 +93,20 @@ Surveyed **120 farmers** to study how socioeconomic factors, training, and pract
 ---
 
 ### 3. Optimization & Financial Metrics
+
 - **Comparative Analysis of Inflation and Producer Price Trends (2019–2025) Across Selected Countries**  
-Analyzed consumer inflation, producer price changes, and production trends for potatoes and wheat across selected countries (2019–2025). Built star-schema models and interactive Power BI dashboards to reveal insights on price disparities, production efficiency, and economic imbalances.  
+
+This project presents a comparative analysis of inflation, producer price changes, and agricultural production trends (2019–2025) across selected countries using FAOSTAT data.
+The focus is on potatoes and wheat, evaluating how macroeconomic pressures translate into producer returns and consumer costs across developed and developing economies, including Nigeria, Egypt, Jordan, Kenya, Ireland, the Netherlands, the United Kingdom, and the United States.
+
+**Economic Methdology:** Comparative Price Analysis | Time-Series Analysis | Value Chain Analysis | Economic Metrics (growth, % change, price gaps) | Development Evaluation (impact on farmers and food affordability) | Data Visualisation & Interpretation
 
 **Tools:** Power BI  
 
 [![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
 
 - **Linear Programming Applications in Agricultural and Food Production**  
+
 This project applies Linear Programming (LP) to optimise agricultural and food production decisions under resource constraints. It covers nutrient-cost optimisation for grains, production scheduling for Maize and Yam Flour, and machine allocation to maximise efficiency and profit. The analyses provide evidence-based insights for farm-level decision-making and small-scale processing operations.
 
 **Economic Methodology:** LP  Modelling
@@ -110,6 +116,7 @@ This project applies Linear Programming (LP) to optimise agricultural and food p
 [![Linear Programming](https://img.shields.io/badge/GitHub-_Linear_Programming_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/LINEAR-PROGRAMMING/blob/main/README.md)
 
 - **Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus**  
+
 This project evaluates the economic viability and profitability of cultivating Amaranth and Corchorus in Nigeria under two farming systems: strictly organic (manure only) and integrated (fertilizer, pesticide, and manure). Following the economic methodology, the study quantifies the trade-offs between input costs and crop revenue. Results provide evidence-based insights for smallholder farmers, agribusinesses, and policymakers, highlighting which farming approach is financially sustainable and strategically advantageous. 
 
 **Economic Methodology:** BCR/CBA, ROI, NPV and IRR
@@ -119,6 +126,7 @@ This project evaluates the economic viability and profitability of cultivating A
 [![Farm Profitability](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
 - **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Analysis**  
+
 This project evaluates the impact of mycorrhizal fungi application on cabbage (Brassica oleracea) cultivation, emphasizing sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya, contributing to national food security and economic growth. The study examines biological soil amendments (mycorrhizal inoculants) as a strategy to improve plant growth, resilience, and profitability.
 
 **Economic Methodology:** Cost Benefit Analysis (CBA) | Return on Investment (ROI)
