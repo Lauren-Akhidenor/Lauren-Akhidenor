@@ -81,12 +81,16 @@ Mapped CSA adoption patterns, evaluated food price stabilization, and applied Py
 
 [![CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
 
-- **Socioeconomic Analysis & Maize Productivity – Bungoma, Kenya**  
-Surveyed **120 farmers** to study how socioeconomic factors, training, and practices affect maize yields. Male-headed households (78%) dominated; training correlated with higher productivity. With Key constraints like input cost, pests, post-harvest losses.
+- **Socioeconomic Analysis & Maize Productivity – Bungoma, Kenya**
+  
+This project investigates maize farming in Bungoma County, focusing on the socio-economic characteristics of smallholder farmers, their farming practices, access to training, and resulting productivity. A survey of 120 farmers revealed that male-headed households dominate (78%), and participation in training programs is strongly linked to higher yields. Despite these gains, farmers continue to face significant challenges, including high input costs, pest infestations, and post-harvest losses.
+To deepen the analysis, detailed data from 59 participants across four sub-counties were examined, linking household attributes and farm practices with maize output. The findings highlight both the constraints limiting productivity and the opportunities for improving maize production through targeted training and support.
+
+**Economic Methodology:** Descriptive Statistics | Trendline Analysis | Regression Analysis | Correlation | T-Test | Development Impact Evaluation | Data Visualisation
 
 **Tools:** Excel | SPSS | Power BI  
 
-[![Bungoma Kenya](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
+[![Bungoma Kenya](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya/blob/main/Analysis-for-Bungoma-Kenya.README.md)
 
 
 
