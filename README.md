@@ -107,10 +107,12 @@ Showcase of three LP applications: Nutrient-Cost Optimization, Production Schedu
 
 [![Linear Programming](https://img.shields.io/badge/GitHub-_Linear_Programming_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/LINEAR-PROGRAMMING/blob/main/README.md)
 
-- **Cost-Benefit Analysis of Organic vs Integrated Farming**  
-Economic evaluation of organic vs integrated farming for Amaranth and Corchorus.  
+- **Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus**  
+This project evaluates the economic viability and profitability of cultivating Amaranth and Corchorus in Nigeria under two farming systems: strictly organic (manure only) and integrated (fertilizer, pesticide, and manure). Following the economic methodology, the study quantifies the trade-offs between input costs and crop revenue. Results provide evidence-based insights for smallholder farmers, agribusinesses, and policymakers, highlighting which farming approach is financially sustainable and strategically advantageous. 
 
-**Tools:** Excel | ROI/NPV/IRR  
+**Economic Methodology:** BCR/CBA, ROI, NPV and IRR
+
+**Tools:** Microsoft Excel
 
 [![Farm Profitability](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
