@@ -39,11 +39,13 @@
 - **Emono’s Healthy Lifestyle: Complete SQL Database Project**  
 Comprehensive SQL database for health-focused agrifood business with DDL, DML, ETL, and OLAP processes.  
 
-**Tools:** SQL Server | ETL Processes | OLAP Analytics  
+
+**Methodology:** ETL Processes | OLAP Analytics  
+**Tools:** SQL Server 
 
 [![Emono's Healthy Lifestyle](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
 
-- **Agro Inventory & Climate Analysis**
+- **Agro Inventory & Climate Expectation Analysis**
 Analyzed agricultural inventory and climate expectation data from GHS-Panel Wave 5 (2023/2024) to assess how climate perceptions influence food prices. Includes data cleaning, visualization, and predictive modeling.
 
 **Tools:** SQL | Google Colab  
