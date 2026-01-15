@@ -1,190 +1,132 @@
 # 🌍 Akhidenor Lauren | *The LaurenKins*  
-*Agricultural Economist | Data Analyst | Food Systems Enthusiast*  
+*Agricultural Economist | Development Analyst | Impact Evaluation Analyst | Food Systems Specialist*  
 
-**Driving agricultural transformation, food security, and global impact through data, economics, and innovation.**
-
-
+**Driving evidence-based solutions for food security, sustainable agriculture, and global development impact.**  
 
 ---
 
-## Vision  
-*A Pathfinder with the vision of becoming an individual of global impact, contributing to the drive of food security across the world and restoring agricultural dignity to the African continent, alongside building a generation of global agricultural impacts.*  
+## About Me
+I am a development and impact evaluation analyst with a background in agricultural economics. I specialise in applying economic and analytical methods to solve real-world agricultural and food systems challenges, delivering actionable insights for policy and development interventions.
 
 ---
 
-## Mission  
-*I aspire to add value to the ongoing global efforts to combat hunger by leveraging my knowledge in agricultural economics, data analysis, and the practical application of economic models to solve real world agricultural challenges.*  
+## Core Competencies
+- **Impact Evaluation & Policy Analysis:** RCTs, quasi-experiments, development impact assessment  
+- **Economic & Financial Analysis:** Cost-Benefit Analysis (CBA), ROI, NPV, IRR, value chain evaluation  
+- **Data Analytics & Visualisation:** Descriptive & inferential statistics, regression, panel data, ML, dashboards  
+- **Decision Support:** Scenario analysis, revenue/cost forecasting, policy and investment modelling  
 
 ---
 
-## Passion  
-- Advancing Food Security   
-- Building Climate Resilience   
-- Promoting Sustainability in Agriculture   
-- Driving Impact Through Data Projects  
+## Featured Projects (Problem → Method → Impact → Tools)
 
+### **Category 1: Health & Socioeconomic Impact**
 
----
-
-## Tools & Skills  
-**Data & Analytics:**  Excel |  SPSS |  Microsoft SQL Server |  Python |  Power BI |  ArcGIS  
-**Economics & Finance:**  Agricultural & Environmental Economics |  ROI |  BCR |  NPV |  IRR |  Linear Programming  
-**Decision-making:** Cost Projection | Revenue Forecasting | Policy Impact | Climate Adaptation  
-
----
-
-## Featured Projects
-
-### 1. SQL & Database Projects
-- **Emono’s Healthy Lifestyle: Complete SQL Database Project**
+**Project 1:** Quantifying the Economic Burden of Climate-Induced Health Risks – Nigeria  
+- **Problem:** Climate-related health risks increase medical expenses and reduce labour productivity, but the economic magnitude is unclear.  
+- **Methodology:** Descriptive statistics, logistic regression, robust linear regression, machine learning (Random Forest/XGBoost).  
+- **Impact:** Provided evidence for policymakers on the financial and labour consequences of climate-induced health risks.
   
-**Emono's Healthy Lifestyle** provides a comprehensive SQL database to manage clients, products, employees, projects, farmers, crops, and sales.  
-It integrates operational and analytical workflows to support sales tracking, employee/project management, and crop revenue monitoring.  
-The system enables unified reporting and data-driven decision-making for wellness and nutrition initiatives.  
-Analytics and ETL processes allow for reproducible insights and operational efficiency across all components.
+**Tools:** Excel | Python | Power BI  
 
+[![Project Link](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
-**Methodology:** DML | OLAP | ETL  
+**Project 2:** Emono’s Healthy Lifestyle - AComplete SQL Database  
+- **Problem:** Inefficient management of clients, employees, and crop/nutrition data hindered programme decision-making.  
+- **Methodology:** Integrated SQL database with DML, OLAP, and ETL processes for analytical reporting.  
+- **Impact:** Streamlined operations and enabled data-driven decision-making for nutrition initiatives.  
+
 **Tools:** SQL Server 
 
-[![Emono's Healthy Lifestyle](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
-
-- **Agro Inventory & Climate Expectation Analysis**
-This project involves the use of data manipulation techniques in order to demonstrates Microsoft SQL Server, SMSS, T-SQL and Power BI skills by modeling agricultural inventory, incorporating farmers’ climate expectation signals, and building both analytical and operational logic to inform decisions. This Prohect includes Includes data cleaning, visualization, and predictive modeling.
-
-Methodology: DML| OLAP|  ETL AND SYNTHETIC DATA GENERATION | VISUALIZATION
-
-**Tools:** SQL | Power bi
-
-[![View Project](https://img.shields.io/badge/GitHub-_Agro_Inventory_&_Climate_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis)
-
-- **Global Agricultural Food Systems Analysis (2015–2029)**  
-This project Builds on a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
-
-methodoloogy: - **Data Staging  
-- **Data Warehousing   
-- **Statistical Analysis  
- Panel data & ML (Random Forest, XGBoost) → Forecasts & scenario analysis  
- dashboards VISUALISATION
-- **Validation & QA:** Row counts, null checks, unit standardization, version control
-**Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI                                                                                                                                                                           
-
-[![Food productivity and balance analysis](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/food-productivity-stability)  
+[![Project Link](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
 
 ---
 
-### 2. Climate & Food Systems Analysis
-- **Visualizing Maize Variety Adoption & Agronomic Practices in Embu, Kenya**  
-This project analyzes maize variety adoption and agronomic practices among farmers in Embu, Kenya using Microsoft Power BI. It converts survey data into a clean, optimized data model and interactive dashboards to answer key business questions around varieties, inputs, constraints, and training effectiveness.
+### **Category 2: Agricultural Productivity**
 
-METHODOLOGY: data cleaning, star cschema, visualization, dax 
+**Project 1:** Enhancing Maize Productivity - Embu, Kenya  
+- **Problem:** Low maize yields due to suboptimal variety adoption and agronomic practices.  
+- **Methodology:** Survey analysis, descriptive statistics, star schema data modelling, data visualisation.  
+- **Impact:** Identified adoption gaps and provided actionable recommendations for improving maize yields.  
 
-**Tools:** Power BI  
+**Tools:** Excel | Power BI 
 
-[![Maize Adoption Dashboard](https://img.shields.io/badge/GitHub-_Maize_Adoption_Dashboard_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/MAIZE-GENETICS-/blob/main/README.md)
+[![Project Link](https://img.shields.io/badge/GitHub-_Maize_Adoption_Dashboard_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/MAIZE-GENETICS-/blob/main/README.md)
 
-- **Quantifying the Economic Burden of Climate-Induced Health Risks in Nigeria**  
-Analyzed effects of heat stress, malaria, and cholera on labor productivity and food security with OLS and logistic models.  
-
-**Tools:** Excel | Power BI | Python  
-
-[![Climate Health & Labour](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
-
-- **Role of Climate-Smart Agriculture (CSA) in Addressing Food Security and Climate Change**  
-
-Smallholder agriculture in Nigeria faces increasing climate risks, including floods, droughts, and erratic rainfall, threatening food security and household incomes. Climate-Smart Agriculture (CSA) offers adaptive strategies, yet adoption patterns, socioeconomic drivers, and impact on food prices remain underexplored.  
-
-This project evaluates: socioeconomic characteristics, climate perceptions, CSA adoption, links to food price stabilisation, and effects on climate-related damages. Analysis is based on a **weighted sample of 29.51 million respondents** from the **GHS-Panel Wave 5 (2023/2024)**.
-
-**Econmic Methodology:** Descriptive statistics | Ordinary Least Squares (OLS) regression | Development impact evaluation | Data visualisation for policy insight  
-
-**Tools:** Power BI |  Python  
-
-[![CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
-
-- **Socioeconomic Analysis & Maize Productivity – Bungoma, Kenya**
-  
-This project investigates maize farming in Bungoma County, focusing on the socio-economic characteristics of smallholder farmers, their farming practices, access to training, and resulting productivity. A survey of 120 farmers revealed that male-headed households dominate (78%), and participation in training programs is strongly linked to higher yields. Despite these gains, farmers continue to face significant challenges, including high input costs, pest infestations, and post-harvest losses.
-To deepen the analysis, detailed data from 59 participants across four sub-counties were examined, linking household attributes and farm practices with maize output. The findings highlight both the constraints limiting productivity and the opportunities for improving maize production through targeted training and support.
-
-**Economic Methodology:** Descriptive Statistics | Trendline Analysis | Regression Analysis | Correlation | T-Test | Development Impact Evaluation | Data Visualisation
+**Project 2:** Socioeconomic Analysis & Maize Productivity - Bungoma, Kenya  
+- **Problem:** Farmers face constraints in training access, pest management, and post-harvest losses affecting productivity.  
+- **Methodology:** Descriptive statistics, regression, correlation analysis, T-tests, dashboard visualisation.  
+- **Impact:** Highlighted productivity constraints and opportunities for targeted training and support interventions.  
 
 **Tools:** Excel | SPSS | Power BI  
 
-[![Bungoma Kenya](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya/blob/main/Analysis-for-Bungoma-Kenya.README.md)
-
-
+[![Project Link](https://img.shields.io/badge/GitHub-Analysis_for_Bungoma_Kenya-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya/blob/main/Analysis-for-Bungoma-Kenya.README.md)
 
 ---
 
-### 3. Optimization & Financial Metrics
+### **Category 3: Economic Evaluation & Farm Viability**
 
-- **Comparative Analysis of Inflation and Producer Price Trends (2019–2025) Across Selected Countries**  
+**Project 1:** Cost-Benefit Analysis of Organic vs Integrated Farming - Amaranth & Corchorus, Nigeria  
+- **Problem:** Farmers need evidence to select the most profitable and sustainable farming system.  
+- **Methodology:** Calculated BCR, ROI, NPV, and IRR to compare organic and integrated farming.  
+- **Impact:** Provided smallholders and policymakers with actionable recommendations for financially sustainable farming.
+  
+**Tools:** Excel 
 
-This project presents a comparative analysis of inflation, producer price changes, and agricultural production trends (2019–2025) across selected countries using FAOSTAT data.
-The focus is on potatoes and wheat, evaluating how macroeconomic pressures translate into producer returns and consumer costs across developed and developing economies, including Nigeria, Egypt, Jordan, Kenya, Ireland, the Netherlands, the United Kingdom, and the United States.
+[![Project Link](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
 
-**Economic Methdology:** Comparative Price Analysis | Time-Series Analysis | Value Chain Analysis | Economic Metrics (growth, % change, price gaps) | Development Evaluation (impact on farmers and food affordability) | Data Visualisation & Interpretation
+**Project 2:** Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation  
+- **Problem:** Cabbage productivity and profitability are constrained by soil fertility and sustainability challenges.  
+- **Methodology:** Cost-Benefit Analysis (CBA) and ROI for evaluating biological soil amendments (mycorrhizal inoculants).  
+- **Impact:** Provided evidence-based insights on sustainable, profitable cabbage production for smallholders and policymakers.
+  
+**Tools:** Excel 
 
-**Tools:** Power BI  
-
-[![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
-
-- **Linear Programming Applications in Agricultural and Food Production**  
-
-This project applies Linear Programming (LP) to optimise agricultural and food production decisions under resource constraints. It covers nutrient-cost optimisation for grains, production scheduling for Maize and Yam Flour, and machine allocation to maximise efficiency and profit. The analyses provide evidence-based insights for farm-level decision-making and small-scale processing operations.
-
-**Economic Methodology:** LP  Modelling
-
-**Tools:** Excel  
-
-[![Linear Programming](https://img.shields.io/badge/GitHub-_Linear_Programming_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/LINEAR-PROGRAMMING/blob/main/README.md)
-
-- **Cost-Benefit Analysis of Organic vs Integrated Farming for Amaranth and Corchorus**  
-
-This project evaluates the economic viability and profitability of cultivating Amaranth and Corchorus in Nigeria under two farming systems: strictly organic (manure only) and integrated (fertilizer, pesticide, and manure). Following the economic methodology, the study quantifies the trade-offs between input costs and crop revenue. Results provide evidence-based insights for smallholder farmers, agribusinesses, and policymakers, highlighting which farming approach is financially sustainable and strategically advantageous. 
-
-**Economic Methodology:** BCR/CBA, ROI, NPV and IRR
-
-**Tools:** Microsoft Excel
-
-[![Farm Profitability](https://img.shields.io/badge/GitHub-_Farm_Profitability_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CBA2/blob/main/README.md)
-
-- **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Analysis**  
-
-This project evaluates the impact of mycorrhizal fungi application on cabbage (Brassica oleracea) cultivation, emphasizing sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya, contributing to national food security and economic growth. The study examines biological soil amendments (mycorrhizal inoculants) as a strategy to improve plant growth, resilience, and profitability.
-
-**Economic Methodology:** Cost Benefit Analysis (CBA) | Return on Investment (ROI)
-
-**Tool:** Microsoft Excel 
-
-[![Cabbage Production](https://img.shields.io/badge/GitHub-_Cabbage_Production_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
+[![Project Link](https://img.shields.io/badge/GitHub-_Cabbage_Production_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
 
 ---
 
-## View My Certifications 
+### **Category 4: Food Systems & Policy Insights**
 
-[![📜 Certifications & Certificates](https://img.shields.io/badge/GitHub-📜_Certifications_&_Certificates-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/README.md)
+**Project 1:** Global Agricultural Food Systems Analysis (2015 - 2029)  
+- **Problem:** Multi-country agricultural trends, food security, and climate risks require integrated analysis.  
+- **Methodology:** Data staging, SQL warehousing, SPSS econometrics, Python ML (Random Forest/XGBoost), dashboards visualisation.  
+- **Impact:** Delivered policy-grade insights on production, trade, losses, and food security risk forecasting.  
+
+**Tools:** Excel | SQL Server | SPSS | Python | Power BI | Quadratic AI  
+
+[![Project Link](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/food-productivity-stability)
+
+**Project 2:** Comparative Analysis of Inflation & Producer Prices (2019 - 2025)  
+- **Problem:** Price volatility affects agricultural profitability and food affordability across countries.  
+- **Methodology:** Time-series analysis, value chain assessment, growth rate computation, scenario visualisation.  
+- **Impact:** Informed policymakers and farmers on macroeconomic pressures affecting production and consumer costs.
+  
+**Tools:** Power BI
+
+[![Project Link](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
 
 ---
 
-## Future Goals  
-I envision making a global impact in agriculture and food systems, leading initiatives that drive sustainable change. I see myself collaborating with brilliant minds around the world, inspiring innovation, and empowering every partner to reach their full potential alongside me.
-
+## Certificates
+[![Certificates(https://img.shields.io/badge/GitHub-📜_Certifications_&_Certificates-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/README.md)
 
 ---
 
-## Let’s Connect!  
+## Future Goals
+I aim to lead initiatives that transform agricultural and food systems globally, delivering sustainable, data-driven solutions for smallholders, policymakers, and development organisations.
+
+---
+
+## Connect with Me
 - 📧 Email: **onomedenor24@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/onome-akhidenor-713684271/)
 
+---
 
+## Trade Name
+**The LaurenKins** – Representing innovative, sustainable, and globally impactful agricultural solutions.
 
 ---
 
-## Trade Name  
-**The LaurenKins** represents my commitment to innovative, sustainable, and globally impactful agricultural solutions.   
-
----
-
-✍️ *Akhidenor Lauren O.*  
+✍️ *Akhidenor Lauren O.*
