@@ -75,7 +75,9 @@ methodoloogy: - **Data Staging
 
 ### 2. Climate & Food Systems Analysis
 - **Visualizing Maize Variety Adoption & Agronomic Practices in Embu, Kenya**  
-Analyzed adoption trends and farming practices using star-schema data models and interactive Power BI dashboards.  
+This project analyzes maize variety adoption and agronomic practices among farmers in Embu, Kenya using Microsoft Power BI. It converts survey data into a clean, optimized data model and interactive dashboards to answer key business questions around varieties, inputs, constraints, and training effectiveness.
+
+METHODOLOGY: data cleaning, star cschema, visualization, dax 
 
 **Tools:** Power BI  
 
