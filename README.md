@@ -101,7 +101,9 @@ Analyzed consumer inflation, producer price changes, and production trends for p
 [![Comparison Analysis](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
 
 - **Linear Programming Applications in Agricultural and Food Production**  
-Showcase of three LP applications: Nutrient-Cost Optimization, Production Scheduling, Processing & Machine Allocation.  
+This project applies Linear Programming (LP) to optimise agricultural and food production decisions under resource constraints. It covers nutrient-cost optimisation for grains, production scheduling for Maize and Yam Flour, and machine allocation to maximise efficiency and profit. The analyses provide evidence-based insights for farm-level decision-making and small-scale processing operations.
+
+**Economic Methodology:** LP  Modelling
 
 **Tools:** Excel  
 
