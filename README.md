@@ -70,14 +70,19 @@ Analyzed adoption trends and farming practices using star-schema data models and
 - **Quantifying the Economic Burden of Climate-Induced Health Risks in Nigeria**  
 Analyzed effects of heat stress, malaria, and cholera on labor productivity and food security with OLS and logistic models.  
 
-**Tools:** Excel | Power BI | ArcGIS | Python  
+**Tools:** Excel | Power BI | Python  
 
 [![Climate Health & Labour](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
 - **Role of Climate-Smart Agriculture (CSA) in Addressing Food Security and Climate Change**  
-Mapped CSA adoption patterns, evaluated food price stabilization, and applied Python econometrics.  
 
-**Tools:** Power BI | ArcGIS | Python  
+Smallholder agriculture in Nigeria faces increasing climate risks, including floods, droughts, and erratic rainfall, threatening food security and household incomes. Climate-Smart Agriculture (CSA) offers adaptive strategies, yet adoption patterns, socioeconomic drivers, and impact on food prices remain underexplored.  
+
+This project evaluates: socioeconomic characteristics, climate perceptions, CSA adoption, links to food price stabilisation, and effects on climate-related damages. Analysis is based on a **weighted sample of 29.51 million respondents** from the **GHS-Panel Wave 5 (2023/2024)**.
+
+**Econmic Methodology:** Descriptive statistics | Ordinary Least Squares (OLS) regression | Development impact evaluation | Data visualisation for policy insight  
+
+**Tools:** Power BI |  Python  
 
 [![CSA & Food Security](https://img.shields.io/badge/GitHub-_CSA_&_Food_Security-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CSA-and-food-security-)
 
