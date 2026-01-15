@@ -5,7 +5,7 @@
 
 
 # 🌍 Akhidenor Lauren | *TheLaurenKins*  
-*Agricultural Economist | Development Analyst | Impact Evaluation Analyst | Food Systems Specialist*  
+*Agricultural Economist | Development & Impact Evaluation Analyst | Food Systems Specialist*  
 
 **Using data to provide solutions towards the impending food crisis thus, promoting food security, sustainable agriculture, and global development.**  
 
