@@ -1,3 +1,7 @@
+
+
+
+
 # 🌍 Akhidenor Lauren | *The LaurenKins*  
 *Agricultural Economist | Development Analyst | Impact Evaluation Analyst | Food Systems Specialist*  
 
@@ -109,7 +113,7 @@ I am a development and impact evaluation analyst with a background in agricultur
 ---
 
 ## Certificates
-[![Certificates(https://img.shields.io/badge/GitHub-📜_Certifications_&_Certificates-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/README.md)
+[![Certificates](https://img.shields.io/badge/GitHub-📜_Certifications_&_Certificates-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/CERTIFICATIONS-AND-CERTIFICATES/blob/main/README.md)
 
 ---
 
