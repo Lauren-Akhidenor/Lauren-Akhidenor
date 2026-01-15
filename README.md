@@ -36,11 +36,15 @@
 ## Featured Projects
 
 ### 1. SQL & Database Projects
-- **Emono’s Healthy Lifestyle: Complete SQL Database Project**  
-Comprehensive SQL database for health-focused agrifood business with DDL, DML, ETL, and OLAP processes.  
+- **Emono’s Healthy Lifestyle: Complete SQL Database Project**
+  
+**Emono's Healthy Lifestyle** provides a comprehensive SQL database to manage clients, products, employees, projects, farmers, crops, and sales.  
+It integrates operational and analytical workflows to support sales tracking, employee/project management, and crop revenue monitoring.  
+The system enables unified reporting and data-driven decision-making for wellness and nutrition initiatives.  
+Analytics and ETL processes allow for reproducible insights and operational efficiency across all components.
 
 
-**Methodology:** ETL Processes | OLAP Analytics  
+**Methodology:** DML | OLAP | ETL  
 **Tools:** SQL Server 
 
 [![Emono's Healthy Lifestyle](https://img.shields.io/badge/GitHub-_Emono's_Healthy_Lifestyle_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
