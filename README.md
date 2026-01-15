@@ -53,7 +53,8 @@ Analytics and ETL processes allow for reproducible insights and operational effi
 This project involves the use of data manipulation techniques in order to demonstrates Microsoft SQL Server, SMSS, T-SQL and Power BI skills by modeling agricultural inventory, incorporating farmers’ climate expectation signals, and building both analytical and operational logic to inform decisions. This Prohect includes Includes data cleaning, visualization, and predictive modeling.
 
 Methodology: DML| OLAP|  ETL AND SYNTHETIC DATA GENERATION | VISUALIZATION
-**Tools:** SQL | Google Colab  
+
+**Tools:** SQL | Power bi
 
 [![View Project](https://img.shields.io/badge/GitHub-_Agro_Inventory_&_Climate_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/agro-inventory-climate-analysis)
 
