@@ -61,8 +61,12 @@ Methodology: DML| OLAP|  ETL AND SYNTHETIC DATA GENERATION | VISUALIZATION
 - **Global Agricultural Food Systems Analysis (2015–2029)**  
 This project Builds on a multi-country agricultural intelligence system using FAO data to analyze production, trade, losses, food security, and climate-driven risk across the USA, Brazil, France, India, Nigeria, and Australia. The project integrates Excel staging, SQL warehousing, Python machine learning, SPSS econometrics, Power BI dashboards and Quadrati AI to deliver policy-grade insights and forecasts.
 
-methodoloogy: Correlation | Regression Analysis |
-
+methodoloogy: - **Data Staging  
+- **Data Warehousing   
+- **Statistical Analysis  
+ Panel data & ML (Random Forest, XGBoost) → Forecasts & scenario analysis  
+ dashboards VISUALISATION
+- **Validation & QA:** Row counts, null checks, unit standardization, version control
 **Tools:** Excel (Staging) | SQL Server (SSMS) | SPSS  | Python (Colab) | Power BI | Quadratic AI                                                                                                                                                                           
 
 [![Food productivity and balance analysis](https://img.shields.io/badge/GitHub-_Global_Agricultural_Food_Systems_Analysis_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/food-productivity-stability)  
