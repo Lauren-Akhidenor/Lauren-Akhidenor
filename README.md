@@ -28,7 +28,7 @@ I am a development and impact evaluation analyst with a background in agricultur
 
 ### **Category 1: Health & Socioeconomic Impact**
 
-**Project 1:** Quantifying the Economic Burden of Climate-Induced Health Risks – Nigeria  
+**Project 1:** Quantifying the Economic Burden of Climate-Induced Health Risks in Nigeria  
 - **Problem:** Climate-related health risks increase medical expenses and reduce labour productivity, but the economic magnitude is unclear.  
 - **Methodology:** Descriptive statistics, logistic regression, robust linear regression, machine learning (Random Forest/XGBoost).  
 - **Impact:** Provided evidence for policymakers on the financial and labour consequences of climate-induced health risks.
@@ -37,7 +37,7 @@ I am a development and impact evaluation analyst with a background in agricultur
 
 [![Project Link](https://img.shields.io/badge/GitHub-Climate_Health_&_Labour-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/PROJECT-FILE-CIHR/blob/main/README.md)
 
-**Project 2:** Emono’s Healthy Lifestyle - AComplete SQL Database  
+**Project 2:** Emono’s Healthy Lifestyle - A Complete SQL Database  
 - **Problem:** Inefficient management of clients, employees, and crop/nutrition data hindered programme decision-making.  
 - **Methodology:** Integrated SQL database with DML, OLAP, and ETL processes for analytical reporting.  
 - **Impact:** Streamlined operations and enabled data-driven decision-making for nutrition initiatives.  
