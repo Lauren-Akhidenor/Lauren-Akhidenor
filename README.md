@@ -66,7 +66,7 @@ I am a development and impact evaluation analyst with a background in agricultur
 
 **Tools:** Excel | SPSS | Power BI  
 
-[![Project Link](https://img.shields.io/badge/GitHub-Repo-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
+[![Project Link](https://img.shields.io/badge/GitHub-Repo-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya/blob/main/README.md)
 
 
 ---
