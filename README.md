@@ -50,7 +50,7 @@ I am a development and impact evaluation analyst with a background in agricultur
 
 ### **Category 2: Agricultural Productivity**
 
-**Project 1:** Enhancing Maize Productivity - Embu, Kenya  
+**Project 1:** Visualizing Maize Variety Adoption & Agronomic Practices in Embu, Kenya 
 - **Problem:** Low maize yields due to suboptimal variety adoption and agronomic practices.  
 - **Methodology:** Survey analysis, descriptive statistics, star schema data modelling, data visualisation.  
 - **Impact:** Identified adoption gaps and provided actionable recommendations for improving maize yields.  
