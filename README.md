@@ -5,26 +5,54 @@
 
 
 # 🌍 Akhidenor Lauren | *TheLaurenKins*  
-*Agricultural Economist | Development & Impact Evaluation Analyst | Food Security Specialist*  
-
-**Using data to provide solutions towards the impending food crisis thus, promoting food security specifically accessibility and affordability, and global development.**  
+### *Agricultural Economist | Sustainable Developmental Analyst*  
 
 ---
 
-## About Me
-I am a development and impact evaluation analyst with a background in agricultural economics. I specialise in applying economic and analytical methods to solve real-world agricultural and food systems challenges, delivering actionable insights for policy and development interventions.
+## Drive
+I’m driven by the idea that meaningful impact comes from collaboration, discipline, and a willingness to see possibilities where others see limits. My work sits at the intersection of sustainable agriculture, development, and data. 
+
+With a global perspective, I focus on food security through the lens of accessibility (in terms of affordability) and stability. I use data analysis to turn agricultural and food systems data into insights that support more resilient, inclusive, and sustainable food systems.
 
 ---
 
-## Core Competencies
-- **Impact Evaluation & Policy Analysis:** RCTs, quasi-experiments, development impact assessment  
-- **Economic & Financial Analysis:** Cost-Benefit Analysis (CBA), ROI, NPV, IRR, value chain evaluation  
-- **Data Analytics & Visualisation:** Descriptive & inferential statistics, regression, panel data, ML, dashboards  
-- **Decision Support:** Scenario analysis, revenue/cost forecasting, policy and investment modelling  
+## Expertise
+- 
 
 ---
 
-## Featured Projects (Problem → Method → Impact → Tools)
+## Core Projects (focusing on food accessibility)
+---
+
+### **🌍 The Fuel Lag Effect: A Time-Series Analysis of UK Food Inflation Drivers**
+
+- **Impact:** Fuel-driven food inflation creates unavoidable household strain, with low price elasticity (~ -0.19) limiting consumer adjustment
+- **Insight:** Diesel price shocks transmit into UK food inflation with a 6–9 month lag, most strongly affecting bread, fish, and vegetables
+- **Method:** Time-series econometric modelling (VECM + cointegration + lag analysis)
+- **Output:** Interactive dashboard + transmission analysis of fuel-to-food price dynamics
+
+
+[![Project Link](https://img.shields.io/badge/GitHub-Fuel_and_Food_Price_Analysis-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Fuel-and-Food-Price-Analysis/blob/main/README.md)
+
+
+
+### **Project 2:** Comparative Analysis of Inflation & Producer Prices (2019 - 2025)  
+- **Problem:** Price volatility affects agricultural profitability and food affordability across countries.  
+- **Methodology:** Time-series analysis, value chain assessment, growth rate computation, scenario visualisation.  
+- **Impact:** Informed policymakers and farmers on macroeconomic pressures affecting production and consumer costs.
+  
+**Tools:** Power BI
+
+[![Project Link](https://img.shields.io/badge/GitHub-Comparison_Analysis_FAO_-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/comparsion-analysis-fao-/)
+
+
+
+
+
+
+
+
+
 
 ### **Category 1: Health & Socioeconomic Impact**
 
