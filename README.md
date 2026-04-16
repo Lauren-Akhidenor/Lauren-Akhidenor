@@ -32,7 +32,7 @@ Core focus areas:
 
 ## 🏛️ Anchor Projects (Food Accessibility & Affordability Focus)
 ------
-I analyse how macroeconomic forces — particularly inflation, fuel prices, and input costs, transmit through agricultural systems, shaping:
+I analyse how macroeconomic forces, particularly inflation, fuel prices, and input costs, transmit through agricultural systems, shaping:
 
 - Consumer food price dynamics  
 - Farmer income stability  
