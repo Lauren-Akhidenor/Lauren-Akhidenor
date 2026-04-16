@@ -168,7 +168,7 @@ I also examine broader agricultural system dynamics that underpin food security 
 - **Method:** Combined Excel and SPSS analysis (descriptive statistics, correlation, regression, and t-tests) using a 59-household cross-sectional survey dataset
 - **Output:** Socioeconomic and agronomic insight model identifying structural constraints in smallholder maize production systems
 
-[![Project Link](https://img.shields.io/badge/GitHub-Bungoma_County_Data_Analysis-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
+[![Project Link](https://img.shields.io/badge/GitHub-Bungoma_Kenya_Analysis-F5F5DC?logo=github&logoColor=white&labelColor=800020)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya)
 
 
 </details>
